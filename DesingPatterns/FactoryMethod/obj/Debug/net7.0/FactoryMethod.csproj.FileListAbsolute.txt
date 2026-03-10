@@ -1,0 +1,15 @@
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\FactoryMethod\bin\Debug\net7.0\FactoryMethod.exe
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\FactoryMethod\bin\Debug\net7.0\FactoryMethod.deps.json
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\FactoryMethod\bin\Debug\net7.0\FactoryMethod.runtimeconfig.json
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\FactoryMethod\bin\Debug\net7.0\FactoryMethod.dll
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\FactoryMethod\bin\Debug\net7.0\FactoryMethod.pdb
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\FactoryMethod\obj\Debug\net7.0\FactoryMethod.csproj.AssemblyReference.cache
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\FactoryMethod\obj\Debug\net7.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\FactoryMethod\obj\Debug\net7.0\FactoryMethod.AssemblyInfoInputs.cache
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\FactoryMethod\obj\Debug\net7.0\FactoryMethod.AssemblyInfo.cs
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\FactoryMethod\obj\Debug\net7.0\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\FactoryMethod\obj\Debug\net7.0\FactoryMethod.dll
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\FactoryMethod\obj\Debug\net7.0\refint\FactoryMethod.dll
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\FactoryMethod\obj\Debug\net7.0\FactoryMethod.pdb
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\FactoryMethod\obj\Debug\net7.0\FactoryMethod.genruntimeconfig.cache
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\FactoryMethod\obj\Debug\net7.0\ref\FactoryMethod.dll
