@@ -1,0 +1,15 @@
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\AbstractFactory\bin\Debug\net7.0\AbstractFactory.exe
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\AbstractFactory\bin\Debug\net7.0\AbstractFactory.deps.json
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\AbstractFactory\bin\Debug\net7.0\AbstractFactory.runtimeconfig.json
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\AbstractFactory\bin\Debug\net7.0\AbstractFactory.dll
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\AbstractFactory\bin\Debug\net7.0\AbstractFactory.pdb
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\AbstractFactory\obj\Debug\net7.0\AbstractFactory.csproj.AssemblyReference.cache
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\AbstractFactory\obj\Debug\net7.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\AbstractFactory\obj\Debug\net7.0\AbstractFactory.AssemblyInfoInputs.cache
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\AbstractFactory\obj\Debug\net7.0\AbstractFactory.AssemblyInfo.cs
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\AbstractFactory\obj\Debug\net7.0\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\AbstractFactory\obj\Debug\net7.0\AbstractFactory.dll
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\AbstractFactory\obj\Debug\net7.0\refint\AbstractFactory.dll
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\AbstractFactory\obj\Debug\net7.0\AbstractFactory.pdb
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\AbstractFactory\obj\Debug\net7.0\AbstractFactory.genruntimeconfig.cache
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\AbstractFactory\obj\Debug\net7.0\ref\AbstractFactory.dll
