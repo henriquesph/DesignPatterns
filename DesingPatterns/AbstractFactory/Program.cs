@@ -10,11 +10,15 @@ namespace AbstractFactory
             Application app;
 
             ITransportFactory transportFactory;
-            string company = "Uber";
+            string company = "Lime";
 
             if(company == "Uber")
             {
                 transportFactory = new UberTransport();
+            }
+            else if(company == "Lime")
+            {
+                transportFactory = new LimeTransport();
             }
             else
             {
