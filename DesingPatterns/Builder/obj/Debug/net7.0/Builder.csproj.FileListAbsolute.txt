@@ -1,0 +1,15 @@
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\Builder\bin\Debug\net7.0\Builder.exe
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\Builder\bin\Debug\net7.0\Builder.deps.json
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\Builder\bin\Debug\net7.0\Builder.runtimeconfig.json
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\Builder\bin\Debug\net7.0\Builder.dll
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\Builder\bin\Debug\net7.0\Builder.pdb
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\Builder\obj\Debug\net7.0\Builder.csproj.AssemblyReference.cache
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\Builder\obj\Debug\net7.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\Builder\obj\Debug\net7.0\Builder.AssemblyInfoInputs.cache
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\Builder\obj\Debug\net7.0\Builder.AssemblyInfo.cs
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\Builder\obj\Debug\net7.0\Builder.csproj.CoreCompileInputs.cache
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\Builder\obj\Debug\net7.0\Builder.dll
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\Builder\obj\Debug\net7.0\refint\Builder.dll
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\Builder\obj\Debug\net7.0\Builder.pdb
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\Builder\obj\Debug\net7.0\Builder.genruntimeconfig.cache
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\Builder\obj\Debug\net7.0\ref\Builder.dll
