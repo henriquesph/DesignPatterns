@@ -1,0 +1,15 @@
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\Adapter\bin\Debug\net7.0\Adapter.exe
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\Adapter\bin\Debug\net7.0\Adapter.deps.json
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\Adapter\bin\Debug\net7.0\Adapter.runtimeconfig.json
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\Adapter\bin\Debug\net7.0\Adapter.dll
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\Adapter\bin\Debug\net7.0\Adapter.pdb
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\Adapter\obj\Debug\net7.0\Adapter.csproj.AssemblyReference.cache
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\Adapter\obj\Debug\net7.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\Adapter\obj\Debug\net7.0\Adapter.AssemblyInfoInputs.cache
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\Adapter\obj\Debug\net7.0\Adapter.AssemblyInfo.cs
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\Adapter\obj\Debug\net7.0\Adapter.csproj.CoreCompileInputs.cache
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\Adapter\obj\Debug\net7.0\Adapter.dll
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\Adapter\obj\Debug\net7.0\refint\Adapter.dll
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\Adapter\obj\Debug\net7.0\Adapter.pdb
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\Adapter\obj\Debug\net7.0\Adapter.genruntimeconfig.cache
+D:\Repositorios - Henrique\DesignPattern\DesignPatterns\DesingPatterns\Adapter\obj\Debug\net7.0\ref\Adapter.dll
